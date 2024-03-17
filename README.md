@@ -5,4 +5,4 @@ Created the Spring Boot application for CRUD operations on Student Data
  - Implemented Global Exception Handling and Custom Exceptions.
  - Followed the correct Project architecture to build the model layer.
  - Exposed the operations as REST endpoints.
- - Also made use of Lombok to generate getters and setters dynamically.
+ - Also made use of Lombok to generate some boilerplate code.
